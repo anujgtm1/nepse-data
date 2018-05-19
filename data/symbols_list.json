@@ -1,0 +1,1047 @@
+{
+    "ADBL": {
+        "name": "Agriculture Development Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 397
+    },
+    "API": {
+        "name": "Api Power Company Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 697
+    },
+    "AMFI": {
+        "name": "Arambha Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2777
+    },
+    "AKPL": {
+        "name": "Arun Kabeli Power Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2757
+    },
+    "AHPC": {
+        "name": "Arun Valley Hydropower Development Co. Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 360
+    },
+    "AVU": {
+        "name": "Arun Vanaspati Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 211
+    },
+    "ALICL": {
+        "name": "Asian Life Insurance Co. Limited",
+        "sector": "Insurance",
+        "symbol_number": 385
+    },
+    "BOKL": {
+        "name": "Bank of Kathmandu Ltd.",
+        "sector": "Commercial Banks",
+        "symbol_number": 138
+    },
+    "BARUN": {
+        "name": "Barun Hydropower Co. Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 686
+    },
+    "BFC": {
+        "name": "Best Finance Company Ltd.",
+        "sector": "Finance",
+        "symbol_number": 227
+    },
+    "BHBL": {
+        "name": "Bhargav Bikash Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 487
+    },
+    "BSL": {
+        "name": "Birat Shoe Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 217
+    },
+    "BBC": {
+        "name": "Bishal Bazar Company Limited",
+        "sector": "Tradings",
+        "symbol_number": 156
+    },
+    "BNL": {
+        "name": "Bottlers Nepal (Balaju) Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 195
+    },
+    "BNT": {
+        "name": "Bottlers Nepal (Terai) Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 213
+    },
+    "BPCL": {
+        "name": "Butwal Power Company Limited",
+        "sector": "Hydro Power",
+        "symbol_number": 153
+    },
+    "BSM": {
+        "name": "Butwal Spinning Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 205
+    },
+    "CMB": {
+        "name": "Capital Merchant Bank & Finance Co. Ltd.",
+        "sector": "Finance",
+        "symbol_number": 259
+    },
+    "CFCL": {
+        "name": "Central Finance Co. Ltd.",
+        "sector": "Finance",
+        "symbol_number": 245
+    },
+    "CCBL": {
+        "name": "Century Commercial Bank Ltd.",
+        "sector": "Commercial Banks",
+        "symbol_number": 605
+    },
+    "CBBL": {
+        "name": "Chhimek Laghubitta Bikas Bank Limited",
+        "sector": "Microfinance",
+        "symbol_number": 164
+    },
+    "CHL": {
+        "name": "Chhyangdi Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2766
+    },
+    "CHCL": {
+        "name": "Chilime Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "symbol_number": 154
+    },
+    "CZBIL": {
+        "name": "Citizen Bank International Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 348
+    },
+    "CIT": {
+        "name": "Citizen Investment Trust",
+        "sector": "Others",
+        "symbol_number": 210
+    },
+    "CMF1": {
+        "name": "Citizens Mutual Fund -1",
+        "sector": "Mutual Fund",
+        "symbol_number": 2780
+    },
+    "CEFL": {
+        "name": "City Express Finance Co. Limited",
+        "sector": "Finance",
+        "symbol_number": 296
+    },
+    "CBL": {
+        "name": "Civil Bank Ltd",
+        "sector": "Commercial Banks",
+        "symbol_number": 532
+    },
+    "CLBSL": {
+        "name": "Civil Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 693
+    },
+    "CORBL": {
+        "name": "Corporate Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 450
+    },
+    "CFL": {
+        "name": "Crystal Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 361
+    },
+    "DDBL": {
+        "name": "Deprosc Development Bank Limited",
+        "sector": "Microfinance",
+        "symbol_number": 166
+    },
+    "DBBL": {
+        "name": "Deva Bikas Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 311
+    },
+    "DHPL": {
+        "name": "Dibyashwori Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2754
+    },
+    "EBL": {
+        "name": "Everest Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 137
+    },
+    "EBLCP": {
+        "name": "Everest Bank Limited Con. Pref.",
+        "sector": "Preferred Stock",
+        "symbol_number": 277
+    },
+    "EIC": {
+        "name": "Everest Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 181
+    },
+    "EDBL": {
+        "name": "Excel Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 274
+    },
+    "FMDBL": {
+        "name": "First Micro Finance Development Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 490
+    },
+    "FHL": {
+        "name": "Fleur Himalayan Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 228
+    },
+    "FOWAD": {
+        "name": "Forward Community Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2758
+    },
+    "GDBL": {
+        "name": "Gandaki Bikas Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 420
+    },
+    "GBBL": {
+        "name": "Garima Bikas Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 417
+    },
+    "GBIME": {
+        "name": "Global IME Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 341
+    },
+    "GILB": {
+        "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 705
+    },
+    "GIMES1": {
+        "name": "Global IME Samunnat Scheme-1",
+        "sector": "Mutual Fund",
+        "symbol_number": 1740
+    },
+    "GFCL": {
+        "name": "Goodwill Finance Co. Ltd.",
+        "sector": "Finance",
+        "symbol_number": 232
+    },
+    "GRU": {
+        "name": "Gorakhkali Rubber Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 207
+    },
+    "GBLBS": {
+        "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 583
+    },
+    "GRDBL": {
+        "name": "Green Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 2744
+    },
+    "GMFIL": {
+        "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+        "sector": "Finance",
+        "symbol_number": 263
+    },
+    "GLICL": {
+        "name": "Gurans Life Insurance Company Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 447
+    },
+    "GUFL": {
+        "name": "Gurkhas Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 204
+    },
+    "HAMRO": {
+        "name": "Hamro Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 576
+    },
+    "HBT": {
+        "name": "Harisiddhi Brick And Tiles Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 215
+    },
+    "HATH": {
+        "name": "Hathway Finance Company Limited",
+        "sector": "Finance",
+        "symbol_number": 421
+    },
+    "HBL": {
+        "name": "Himalayan Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 134
+    },
+    "HDL": {
+        "name": "Himalayan Distillery Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 235
+    },
+    "HFL": {
+        "name": "Himalayan Finance Limited (Bittiya Sanstha)",
+        "sector": "Finance",
+        "symbol_number": 441
+    },
+    "HGI": {
+        "name": "Himalayan General Insurance Co. Ltd",
+        "sector": "Insurance",
+        "symbol_number": 179
+    },
+    "HPPL": {
+        "name": "Himalayan Power Partner Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2767
+    },
+    "ICFC": {
+        "name": "ICFC Finance Limited",
+        "sector": "Finance",
+        "symbol_number": 273
+    },
+    "IGI": {
+        "name": "IME General Insurance Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 186
+    },
+    "HIDCL": {
+        "name": "Jalabidyut Lagani tatha Bikas Co. Ltd.",
+        "sector": "Others",
+        "symbol_number": 2742
+    },
+    "JFL": {
+        "name": "Janaki Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 250
+    },
+    "JBNL": {
+        "name": "Janata Bank Nepal Ltd.",
+        "sector": "Commercial Banks",
+        "symbol_number": 496
+    },
+    "JSLBB": {
+        "name": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 695
+    },
+    "JEFL": {
+        "name": "Jebils Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 577
+    },
+    "JBBL": {
+        "name": "Jyoti Bikas Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 418
+    },
+    "JSM": {
+        "name": "Jyoti Sinning Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 209
+    },
+    "KEBL": {
+        "name": "Kabeli Bikas Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 427
+    },
+    "KBBL": {
+        "name": "Kailash Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 202
+    },
+    "KMCDB": {
+        "name": "Kalika Microcredit Development Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 593
+    },
+    "KSBBL": {
+        "name": "Kamana Sewa Bikas Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 459
+    },
+    "KADBL": {
+        "name": "Kanchan Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 505
+    },
+    "KNBL": {
+        "name": "Kankai Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 419
+    },
+    "KRBL": {
+        "name": "Karnali Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 428
+    },
+    "KKHC": {
+        "name": "Khanikhola Hydropower Co. Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2751
+    },
+    "KMFL": {
+        "name": "Kisan Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 694
+    },
+    "KBL": {
+        "name": "Kumari Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 142
+    },
+    "LFC": {
+        "name": "Lalitpur Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 231
+    },
+    "LBL": {
+        "name": "Laxmi Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 141
+    },
+    "LEMF": {
+        "name": "Laxmi Equity Fund",
+        "sector": "Mutual Fund",
+        "symbol_number": 2765
+    },
+    "LLBS": {
+        "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 618
+    },
+    "LVF1": {
+        "name": "Laxmi Value Fund-1",
+        "sector": "Mutual Fund",
+        "symbol_number": 674
+    },
+    "LICN": {
+        "name": "Life Insurance Co. Nepal",
+        "sector": "Insurance",
+        "symbol_number": 188
+    },
+    "LBBL": {
+        "name": "Lumbini Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 358
+    },
+    "LGIL": {
+        "name": "Lumbini General Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 190
+    },
+    "MBL": {
+        "name": "Machhapuchhre Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 140
+    },
+    "MLBL": {
+        "name": "Mahalaxmi Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 401
+    },
+    "MSMBS": {
+        "name": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 691
+    },
+    "MSLB": {
+        "name": "Mahuli Samudayik Laghubitta Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2768
+    },
+    "MFIL": {
+        "name": "Manjushree Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 516
+    },
+    "MEGA": {
+        "name": "Mega  Bank Nepal Ltd.",
+        "sector": "Commercial Banks",
+        "symbol_number": 562
+    },
+    "MERO": {
+        "name": "Mero Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 1741
+    },
+    "MMFDB": {
+        "name": "Mirmire Microfinance Development Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 682
+    },
+    "MIDBL": {
+        "name": "Mission Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 570
+    },
+    "MDB": {
+        "name": "Miteri Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 371
+    },
+    "MLBBL": {
+        "name": "Mithila LaghuBitta Bikas Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 601
+    },
+    "MMDBL": {
+        "name": "Mount Makalu Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 614
+    },
+    "MNBBL": {
+        "name": "Muktinath Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 474
+    },
+    "MPFL": {
+        "name": "Multipurpose Finance Company  Limited",
+        "sector": "Finance",
+        "symbol_number": 471
+    },
+    "NABIL": {
+        "name": "Nabil Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 131
+    },
+    "NEF": {
+        "name": "Nabil Equity Fund",
+        "sector": "Mutual Fund",
+        "symbol_number": 2753
+    },
+    "NBBL": {
+        "name": "NagBeli LaghuBitta Bikas Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 602
+    },
+    "NBSL": {
+        "name": "Namaste Bittiya Sanstha Ltd.",
+        "sector": "Finance",
+        "symbol_number": 571
+    },
+    "NABBC": {
+        "name": "Narayani Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 172
+    },
+    "NHPC": {
+        "name": "National Hydro Power Company Limited",
+        "sector": "Hydro Power",
+        "symbol_number": 152
+    },
+    "NLICL": {
+        "name": "National Life Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 178
+    },
+    "NMFBS": {
+        "name": "National Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2746
+    },
+    "NNLB": {
+        "name": "Naya Nepal Laghubitta Bikas Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 592
+    },
+    "NIL": {
+        "name": "Neco Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 183
+    },
+    "NBB": {
+        "name": "Nepal Bangladesh Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 136
+    },
+    "NBL": {
+        "name": "Nepal Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 517
+    },
+    "NBBU": {
+        "name": "Nepal Bitumin And Barrel Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 233
+    },
+    "NCCB": {
+        "name": "Nepal Credit And Commercial Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 144
+    },
+    "NTC": {
+        "name": "Nepal Doorsanchar Comapany Limited",
+        "sector": "Others",
+        "symbol_number": 307
+    },
+    "NFD": {
+        "name": "Nepal Film Development Company Limited",
+        "sector": "Others",
+        "symbol_number": 151
+    },
+    "NFS": {
+        "name": "Nepal Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 194
+    },
+    "NHDL": {
+        "name": "Nepal Hydro Developers Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2769
+    },
+    "NICL": {
+        "name": "Nepal Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 176
+    },
+    "NIB": {
+        "name": "Nepal Investment Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 132
+    },
+    "NKU": {
+        "name": "Nepal Khadya Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 222
+    },
+    "NLIC": {
+        "name": "Nepal Life Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 187
+    },
+    "NLO": {
+        "name": "Nepal Lube Oil Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 198
+    },
+    "SBI": {
+        "name": "Nepal SBI Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 135
+    },
+    "NSM": {
+        "name": "Nepal Share Markets Ltd.",
+        "sector": "Finance",
+        "symbol_number": 200
+    },
+    "NTL": {
+        "name": "Nepal Tading Limited",
+        "sector": "Tradings",
+        "symbol_number": 158
+    },
+    "NVG": {
+        "name": "Nepal Vanaspati Ghee Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 201
+    },
+    "NWC": {
+        "name": "Nepal Welfare Company Limited",
+        "sector": "Tradings",
+        "symbol_number": 159
+    },
+    "NLBBL": {
+        "name": "Nerude Laghubita Bikas Bank Limited",
+        "sector": "Microfinance",
+        "symbol_number": 396
+    },
+    "NGPL": {
+        "name": "Ngadi Group Power Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2743
+    },
+    "NIBLPF": {
+        "name": "NIBL Pragati Fund",
+        "sector": "Mutual Fund",
+        "symbol_number": 2755
+    },
+    "NIBSF1": {
+        "name": "NIBL Samriddhi Fund 1",
+        "sector": "Mutual Fund",
+        "symbol_number": 636
+    },
+    "NICA": {
+        "name": "NIC Asia Bank Ltd.",
+        "sector": "Commercial Banks",
+        "symbol_number": 139
+    },
+    "NICGF": {
+        "name": "NIC Asia Growth Fund",
+        "sector": "Mutual Fund",
+        "symbol_number": 2779
+    },
+    "NIDC": {
+        "name": "NIDC Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 160
+    },
+    "NUBL": {
+        "name": "Nirdhan Utthan Bank Limited",
+        "sector": "Microfinance",
+        "symbol_number": 163
+    },
+    "NLG": {
+        "name": "NLG Insurance Company Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 559
+    },
+    "NMBMF": {
+        "name": "NMB  Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 704
+    },
+    "NMB": {
+        "name": "NMB Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 238
+    },
+    "NMBHF1": {
+        "name": "NMB Hybrid Fund L-1",
+        "sector": "Mutual Fund",
+        "symbol_number": 2752
+    },
+    "NMBSF1": {
+        "name": "NMB Sulav Investment Fund-1",
+        "sector": "Mutual Fund",
+        "symbol_number": 629
+    },
+    "ODBL": {
+        "name": "Om Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 398
+    },
+    "OHL": {
+        "name": "Oriental Hotels Limited",
+        "sector": "Hotels",
+        "symbol_number": 149
+    },
+    "PFL": {
+        "name": "Pokhara Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 236
+    },
+    "PRVU": {
+        "name": "Prabhu  Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 255
+    },
+    "PRIN": {
+        "name": "Prabhu Insurance Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 184
+    },
+    "PIC": {
+        "name": "Premier Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 182
+    },
+    "PCBL": {
+        "name": "Prime Commercial Bank Ltd.",
+        "sector": "Commercial Banks",
+        "symbol_number": 357
+    },
+    "PLIC": {
+        "name": "Prime Life Insurance Company Limited",
+        "sector": "Insurance",
+        "symbol_number": 393
+    },
+    "PROFL": {
+        "name": "ProgressiveFinance Limited",
+        "sector": "Finance",
+        "symbol_number": 338
+    },
+    "PICL": {
+        "name": "Prudential Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 189
+    },
+    "PURBL": {
+        "name": "Purnima Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 451
+    },
+    "RADHI": {
+        "name": "Radhi Bidyut Company Ltd",
+        "sector": "Hydro Power",
+        "symbol_number": 2776
+    },
+    "RJM": {
+        "name": "Raghupati Jute Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 203
+    },
+    "RBCL": {
+        "name": "Rastriya Beema Company Limited",
+        "sector": "Insurance",
+        "symbol_number": 177
+    },
+    "RLFL": {
+        "name": "Reliance Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 587
+    },
+    "RHPC": {
+        "name": "Ridi Hydropower Development Company Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 610
+    },
+    "RSDC": {
+        "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2748
+    },
+    "RMDC": {
+        "name": "Rural Microfinance Development Centre Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 575
+    },
+    "SIC": {
+        "name": "Sagarmatha Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 185
+    },
+    "SHBL": {
+        "name": "Sahara Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 625
+    },
+    "SBBLJ": {
+        "name": "Sahayogi Bikas Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 174
+    },
+    "STC": {
+        "name": "Salt Trading Corporation",
+        "sector": "Tradings",
+        "symbol_number": 155
+    },
+    "SMATA": {
+        "name": "Samata Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2761
+    },
+    "SFC": {
+        "name": "Samjhana Finance Co. Ltd.",
+        "sector": "Finance",
+        "symbol_number": 221
+    },
+    "SKBBL": {
+        "name": "Sana Kisan Bikas Bank Ltd",
+        "sector": "Microfinance",
+        "symbol_number": 574
+    },
+    "SANIMA": {
+        "name": "Sanima Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 171
+    },
+    "SAEF": {
+        "name": "Sanima Equity Fund",
+        "sector": "Mutual Fund",
+        "symbol_number": 2773
+    },
+    "SHPC": {
+        "name": "Sanima Mai Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 591
+    },
+    "SKDBL": {
+        "name": "Saptakoshi Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 1733
+    },
+    "SADBL": {
+        "name": "Shangrila Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 472
+    },
+    "SICL": {
+        "name": "Shikhar Insurance Co. Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 192
+    },
+    "SHINE": {
+        "name": "Shine Resunga Development Bank Ltd.",
+        "sector": "Development Bank",
+        "symbol_number": 473
+    },
+    "SBPP": {
+        "name": "Shree Bhrikuti Pulp And Paper Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 226
+    },
+    "SIFC": {
+        "name": "Shree Investment Finance Co. Ltd.",
+        "sector": "Finance",
+        "symbol_number": 244
+    },
+    "SRS": {
+        "name": "Shree Ram Sugar Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 230
+    },
+    "SFFIL": {
+        "name": "Shrijana Finance  (Bittaya Sanstha)",
+        "sector": "Finance",
+        "symbol_number": 261
+    },
+    "SBL": {
+        "name": "Siddhartha Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 145
+    },
+    "SEF": {
+        "name": "Siddhartha Equity Fund",
+        "sector": "Mutual Fund",
+        "symbol_number": 2770
+    },
+    "SEOS": {
+        "name": "Siddhartha Equity Orineted Scheme",
+        "sector": "Mutual Fund",
+        "symbol_number": 616
+    },
+    "SIL": {
+        "name": "Siddhartha Insurance Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 280
+    },
+    "SINDU": {
+        "name": "Sindhu Bikash Bank Ltd",
+        "sector": "Development Bank",
+        "symbol_number": 561
+    },
+    "SHL": {
+        "name": "Soaltee Hotel Limited",
+        "sector": "Hotels",
+        "symbol_number": 147
+    },
+    "SCB": {
+        "name": "Standard Chartered Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 133
+    },
+    "SMFDB": {
+        "name": "Summit Micro Finance Development Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 502
+    },
+    "SRBL": {
+        "name": "Sunrise Bank Limited",
+        "sector": "Commercial Banks",
+        "symbol_number": 359
+    },
+    "SMB": {
+        "name": "Support Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2771
+    },
+    "SLICL": {
+        "name": "Surya Life Insurance Company Limited",
+        "sector": "Insurance",
+        "symbol_number": 403
+    },
+    "SLBS": {
+        "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2750
+    },
+    "SWBBL": {
+        "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol_number": 268
+    },
+    "SDESI": {
+        "name": "Swadeshi Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2764
+    },
+    "SLBBL": {
+        "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 545
+    },
+    "SYFL": {
+        "name": "Synergy Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 249
+    },
+    "SPDL": {
+        "name": "Synergy Power Development Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2759
+    },
+    "TRH": {
+        "name": "Taragaon Regency Hotel Limited",
+        "sector": "Hotels",
+        "symbol_number": 148
+    },
+    "TNBL": {
+        "name": "Tinau Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 442
+    },
+    "TDBL": {
+        "name": "Tourism Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 503
+    },
+    "UNL": {
+        "name": "Uniliver Nepal Limited",
+        "sector": "Manufacturing And Processing",
+        "symbol_number": 219
+    },
+    "UFL": {
+        "name": "United Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 242
+    },
+    "UIC": {
+        "name": "United Insurance Co. (Nepal) Ltd.",
+        "sector": "Insurance",
+        "symbol_number": 180
+    },
+    "UMHL": {
+        "name": "United Modi Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "symbol_number": 2760
+    },
+    "UMB": {
+        "name": "Unnati Micorfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 2774
+    },
+    "VLBS": {
+        "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 687
+    },
+    "WDBL": {
+        "name": "Western Development Bank Limited",
+        "sector": "Development Bank",
+        "symbol_number": 445
+    },
+    "WOMI": {
+        "name": "Womi Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol_number": 706
+    },
+    "WMBF": {
+        "name": "World Merchant Banking & Finance Ltd.",
+        "sector": "Finance",
+        "symbol_number": 256
+    },
+    "YHL": {
+        "name": "Yak And Yeti Hotel Limited",
+        "sector": "Hotels",
+        "symbol_number": 146
+    }
+}
